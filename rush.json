@@ -454,6 +454,11 @@
       "packageName": "c",
       "projectFolder": "packages/c",
       "subspaceName": "subspace-c"
+    },
+    {
+      "packageName": "dummy",
+      "projectFolder": "packages/dummy",
+      "subspaceName": "default"
     }
   ]
 }
